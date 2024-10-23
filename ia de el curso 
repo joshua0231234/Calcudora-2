@@ -1,0 +1,69 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMSZVWIwXISwmVL/BaeuTZT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/joshua0231234/Calcudora-2/blob/main/ia%20de%20el%20curso%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 6,
+      "metadata": {
+        "id": "JwiimQ_HlAqt"
+      },
+      "outputs": [],
+      "source": [
+        "import tensorflow as tf\n",
+        "import tensorflow_datasets as tfds\n",
+        "import numpy as np\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "clase1 = np.array([25],dtype=float)\n",
+        "clase2 = np.array([-25],dtype=float)\n",
+        "clase3 = np.array([25],dtype=float)\n",
+        "clase4 = np.array([-25],dtype=float)\n",
+        "clase5 =np.array([25],dtype=float)\n",
+        "clase6 = np.array([-25],dty)"
+      ],
+      "metadata": {
+        "collapsed": true,
+        "id": "lCQvp61XlXVt"
+      },
+      "execution_count": 11,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "tvxjyEp1nCJ8"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
